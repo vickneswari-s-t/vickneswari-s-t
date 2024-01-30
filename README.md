@@ -1,5 +1,5 @@
-- 👋 <h1 align="center">Hi 👋, I'm S.T.VICKNESWARI</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+- 👋 <h1 align="center">Hi 👋, I'm VICKNESWARI</h1>
+<h3 align="center">A passionate frontend developer from Tamil Nadu</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vickneswari-s-t&label=Profile%20views&color=0e75b6&style=flat" alt="vickneswari-s-t" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **FSD MERN(Full Stack Developer)**
 
-- 💬 Ask me about **Java Script**
+- 💬 Ask me about **Html,Css,Java Script,Musql,MongoDB**
 
 - 📫 How to reach me **vickneswari.s.t@gmail.com**
 
