@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **FSD MERN(Full Stack Developer)**
 
-- 💬 Ask me about **Html,Css,Java Script,Musql,MongoDB**
+- 💬 Ask me about **Html,Css,Java Script,Mysql,MongoDB**
 
 - 📫 How to reach me **vickneswari.s.t@gmail.com**
 
